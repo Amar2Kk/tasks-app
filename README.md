@@ -1,8 +1,8 @@
 # Tasks App - My First Vue.js Project
 
-![Tasks App](./public/Tasks-app.gif)  <!-- Add this line -->
-
 A simple and clean task management application built with Vue 3, TypeScript, and Vite. This is my first Vue.js application, showcasing fundamental Vue concepts and modern development practices.
+
+![Tasks App](./public/Tasks-app.gif)
 
 ## 🚀 Features
 
